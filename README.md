@@ -1,6 +1,6 @@
 ## ERD
 
-![ER Diagram](images/er-diagram.png)
+![ER Diagram](https://raw.githubusercontent.com/upida/crm/refs/heads/main/erd.png)
 
 ## Installation
 
