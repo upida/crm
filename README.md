@@ -1,3 +1,7 @@
+## ERD
+
+![ER Diagram](images/er-diagram.png)
+
 ## Installation
 
 1. Clone the repository:
